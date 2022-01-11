@@ -130,3 +130,6 @@ dmypy.json
 
 # Datos crudos
 .csv
+datos_entrenamiento.csv
+partidad_etiquetadas.csv
+partidas_solicitante2.csv
